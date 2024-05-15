@@ -125,18 +125,6 @@ OFFICIAL",2/9/2024 1:00,Montenegro vs Japan,3 2 2 3 4 0 4 6,"13
 2024,group-c,"Men's Preliminary Round I - Group C Match 17
 OFFICIAL",2/9/2024 9:30,Serbia vs United States of America,2 3 3 4 6 1 3 4,"14
 12"
-2024,group-d,"Men's Preliminary Round I - Group D Match 7
-OFFICIAL",2/5/2024 11:00,Italy vs Kazakhstan,6 1 10 1 8 1 9 0,"33
-3"
-2024,group-d,"Men's Preliminary Round I - Group D Match 8
-OFFICIAL",2/5/2024 12:30,Romania vs Hungary,2 5 2 5 3 2 1 3,"8
-15"
-2024,group-d,"Men's Preliminary Round I - Group D Match 14
-OFFICIAL",2/7/2024 8:00,Kazakhstan vs Romania,1 7 1 6 0 5 1 7,"3
-25"
-2024,group-d,"Men's Preliminary Round I - Group D Match 13
-OFFICIAL",2/7/2024 12:30,Hungary vs Italy,2 2 2 2 3 3 2 2,"15
-14"
 2024,group-d,"Men's Preliminary Round I - Group D Match 19
 OFFICIAL",2/9/2024 2:30,Kazakhstan vs Hungary,0 8 0 5 0 8 1 7,"1
 28"
@@ -251,42 +239,6 @@ OFFICIAL",7/21/2023 4:30,People's Republic of China vs Italy,2 2 1 7 2 6 0 3,"5
 2023,group-b,"Men's Preliminary Round I - Group B Match 24
 OFFICIAL",7/21/2023 7:30,France vs Canada,5 4 5 3 3 2 2 2,"15
 11"
-2023,group-c,"Men's Preliminary Round I - Group C Match 5
-OFFICIAL",7/17/2023 3:00,Argentina vs Croatia,2 8 1 4 0 7 2 5,"5
-24"
-2023,group-c,"Men's Preliminary Round I - Group C Match 6
-OFFICIAL",7/17/2023 6:00,Hungary vs Japan,4 4 3 2 3 1 6 1,"16
-8"
-2023,group-c,"Men's Preliminary Round I - Group C Match 12
-OFFICIAL",7/18/2023 23:00,Croatia vs Hungary,1 3 2 2 3 3 4 4,"10
-12"
-2023,group-c,"Men's Preliminary Round I - Group C Match 11
-OFFICIAL",7/19/2023 6:00,Japan vs Argentina,6 1 4 2 4 2 6 4,"20
-9"
-2023,group-c,"Men's Preliminary Round I - Group C Match 18
-OFFICIAL",7/20/2023 20:00,Hungary vs Argentina,7 1 5 4 4 4 5 4,"21
-13"
-2023,group-c,"Men's Preliminary Round I - Group C Match 17
-OFFICIAL",7/21/2023 6:00,Croatia vs Japan,4 3 3 3 8 3 2 3,"17
-12"
-2023,group-d,"Men's Preliminary Round I - Group D Match 7
-OFFICIAL",7/17/2023 4:30,Montenegro vs South Africa,6 1 10 0 9 5 10 4,"35
-10"
-2023,group-d,"Men's Preliminary Round I - Group D Match 8
-OFFICIAL",7/17/2023 7:30,Serbia vs Spain,2 3 3 5 5 5 4 3,"14
-16"
-2023,group-d,"Men's Preliminary Round I - Group D Match 13
-OFFICIAL",7/19/2023 0:30,Spain vs Montenegro,2 2 3 2 4 2 2 1,"11
-7"
-2023,group-d,"Men's Preliminary Round I - Group D Match 14
-OFFICIAL",7/19/2023 3:00,South Africa vs Serbia,1 8 1 9 1 7 2 6,"5
-30"
-2023,group-d,"Men's Preliminary Round I - Group D Match 19
-OFFICIAL",7/20/2023 21:30,South Africa vs Spain,2 8 2 7 2 8 0 4,"6
-27"
-2023,group-d,"Men's Preliminary Round I - Group D Match 20
-OFFICIAL",7/20/2023 23:00,Serbia vs Montenegro,3 6 4 2 2 3 4 2,"17
-15"
 2022,finals,"Men's Placement Match 3/4
 OFFICIAL",7/3/2022 8:30,Greece vs Croatia,1 0 4 3 3 2 1 2,"9
 7"
@@ -416,3 +368,75 @@ OFFICIAL",6/25/2022 12:00,Kazakhstan vs Serbia,0 4 1 8 0 5 2 5,"3
 2022,group-d,"Men's Preliminary Round I - Group D Match 20
 OFFICIAL",6/25/2022 13:30,United States of America vs Australia,4 2 4 2 4 3 2 2,"14
 9"
+2021,finals,"5th-6th Place
+OFFICIAL",7/1/2021 6:45,Kazakhstan vs Japan,2 3 5 5 2 2 1 7,"10
+17"
+2021,finals,"7th-8th Place
+OFFICIAL",7/1/2021 8:30,Georgia vs France,1 3 1 3 1 2 2 2,"5
+10"
+2021,finals,"Bronze Medal Match
+OFFICIAL",7/1/2021 10:15,Greece vs Italy,3 4 2 1 4 1 1 2,"10
+8"
+2021,finals,"Gold Medal Match
+OFFICIAL",7/1/2021 12:00,Montenegro vs United States of America,2 0 2 2 3 3 2 3,"9
+8"
+2021,semifinals,"Class. 5th-8th
+OFFICIAL",6/30/2021 6:45,France vs Japan,4 3 1 4 5 2 0 7,"10
+16"
+2021,semifinals,"Class. 5th-8th
+OFFICIAL",6/30/2021 8:30,Georgia vs Kazakhstan,2 3 5 0 2 3 1 4,"15
+16"
+2021,semifinals,"Semifinal
+OFFICIAL",6/30/2021 10:15,Greece vs Montenegro,2 2 1 0 0 4 1 2,"4
+8"
+2021,semifinals,"Semifinal
+OFFICIAL",6/30/2021 12:00,United States of America vs Italy,4 4 2 3 3 0 1 1,"10
+8"
+2021,quarterfinals,"Quarterfinal
+OFFICIAL",6/29/2021 6:45,France vs United States of America,5 2 0 5 4 4 2 1,"11
+12"
+2021,quarterfinals,"Quarterfinal
+OFFICIAL",6/29/2021 8:30,Greece vs Georgia,5 1 5 2 6 1 4 4,"20
+8"
+2021,quarterfinals,"Quarterfinal
+OFFICIAL",6/29/2021 10:15,Italy vs Japan,4 1 5 4 3 2 3 5,"15
+12"
+2021,quarterfinals,"Quarterfinal
+OFFICIAL",6/29/2021 12:00,Kazakhstan vs Montenegro,2 6 0 6 3 3 1 3,"6
+18"
+2021,group-a,"Group A Match 1
+OFFICIAL",6/26/2021 10:15,Greece vs France,2 2 3 1 2 3 3 2,"10
+8"
+2021,group-a,"Group A Match 2
+OFFICIAL",6/26/2021 12:00,Kazakhstan vs Italy,1 5 3 3 3 6 4 3,"11
+17"
+2021,group-a,"Group B Match 3
+OFFICIAL",6/27/2021 6:45,Kazakhstan vs France,2 2 2 3 3 6 4 1,"11
+12"
+2021,group-a,"Group A Match 4
+OFFICIAL",6/27/2021 10:15,Italy vs Greece,1 1 4 3 4 3 2 1,"11
+8"
+2021,group-a,"Group B Match 5
+OFFICIAL",6/28/2021 6:45,Greece vs Kazakhstan,3 1 5 3 3 4 3 1,"14
+9"
+2021,group-a,"Group A Match 6
+OFFICIAL",6/28/2021 12:00,France vs Italy,1 4 4 4 0 3 2 3,"7
+14"
+2021,group-b,"Group B Match 1
+OFFICIAL",6/26/2021 6:45,Montenegro vs United States of America,0 2 5 2 3 2 2 0,"10
+6"
+2021,group-b,"Group B Match 2
+OFFICIAL",6/26/2021 8:30,Japan vs Georgia,3 3 2 4 6 5 1 1,"12
+13"
+2021,group-b,"Group A Match 3
+OFFICIAL",6/27/2021 8:30,Georgia vs Montenegro,2 8 4 6 1 3 1 2,"8
+19"
+2021,group-b,"Group B Match 4
+OFFICIAL",6/27/2021 12:00,Japan vs United States of America,2 3 2 4 2 3 1 5,"7
+15"
+2021,group-b,"Group B Match 6
+OFFICIAL",6/28/2021 8:30,United States of America vs Georgia,3 1 5 2 2 3 3 3,"13
+9"
+2021,group-b,"Group A Match 5
+OFFICIAL",6/28/2021 10:15,Montenegro vs Japan,4 5 4 1 5 1 3 1,"16
+8"
