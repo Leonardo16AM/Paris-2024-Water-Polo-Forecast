@@ -1,0 +1,1045 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-05-22">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="prob" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Spain" label="Spain" />
+      <node id="Italy" label="Italy" />
+      <node id="Croatia" label="Croatia" />
+      <node id="Serbia" label="Serbia" />
+      <node id="Hungary" label="Hungary" />
+      <node id="South Africa" label="South Africa" />
+      <node id="Australia" label="Australia" />
+      <node id="Montenegro" label="Montenegro" />
+      <node id="France" label="France" />
+      <node id="Greece" label="Greece" />
+      <node id="Japan" label="Japan" />
+      <node id="People's Republic of China" label="People's Republic of China" />
+      <node id="Romania" label="Romania" />
+      <node id="United States of America" label="United States of America" />
+      <node id="Kazakhstan" label="Kazakhstan" />
+      <node id="Canada" label="Canada" />
+      <node id="Germany" label="Germany" />
+      <node id="Georgia" label="Georgia" />
+      <node id="Brazil" label="Brazil" />
+      <node id="Argentina" label="Argentina" />
+    </nodes>
+    <edges>
+      <edge source="Spain" target="Italy" id="0">
+        <attvalues>
+          <attvalue for="0" value="0.3333044451331473" />
+        </attvalues>
+      </edge>
+      <edge source="Spain" target="Croatia" id="1">
+        <attvalues>
+          <attvalue for="0" value="0.44031131475297136" />
+        </attvalues>
+      </edge>
+      <edge source="Spain" target="Serbia" id="2">
+        <attvalues>
+          <attvalue for="0" value="0.44058057934519373" />
+        </attvalues>
+      </edge>
+      <edge source="Spain" target="Hungary" id="3">
+        <attvalues>
+          <attvalue for="0" value="0.5206828605320467" />
+        </attvalues>
+      </edge>
+      <edge source="Spain" target="South Africa" id="4">
+        <attvalues>
+          <attvalue for="0" value="0.5425433518242816" />
+        </attvalues>
+      </edge>
+      <edge source="Spain" target="Australia" id="5">
+        <attvalues>
+          <attvalue for="0" value="0.4288177314768877" />
+        </attvalues>
+      </edge>
+      <edge source="Spain" target="Montenegro" id="6">
+        <attvalues>
+          <attvalue for="0" value="0.4261105594211022" />
+        </attvalues>
+      </edge>
+      <edge source="Spain" target="France" id="7">
+        <attvalues>
+          <attvalue for="0" value="0.46846773693719274" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="Spain" id="8">
+        <attvalues>
+          <attvalue for="0" value="0.6666955548668527" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="Croatia" id="9">
+        <attvalues>
+          <attvalue for="0" value="0.4128058136393744" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="Greece" id="10">
+        <attvalues>
+          <attvalue for="0" value="0.3233567961391667" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="Serbia" id="11">
+        <attvalues>
+          <attvalue for="0" value="0.41307067187371294" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="Hungary" id="12">
+        <attvalues>
+          <attvalue for="0" value="0.49257532056186765" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="South Africa" id="13">
+        <attvalues>
+          <attvalue for="0" value="0.5145224871137445" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="Japan" id="14">
+        <attvalues>
+          <attvalue for="0" value="0.3252507870027096" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="People's Republic of China" id="15">
+        <attvalues>
+          <attvalue for="0" value="0.5826723379190262" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="Australia" id="16">
+        <attvalues>
+          <attvalue for="0" value="0.40151513991182597" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="Romania" id="17">
+        <attvalues>
+          <attvalue for="0" value="0.7114310414872005" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="Montenegro" id="18">
+        <attvalues>
+          <attvalue for="0" value="0.398859969103238" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="United States of America" id="19">
+        <attvalues>
+          <attvalue for="0" value="0.30277264457052" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="France" id="20">
+        <attvalues>
+          <attvalue for="0" value="0.4405879485116543" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="Kazakhstan" id="21">
+        <attvalues>
+          <attvalue for="0" value="0.36049764817744256" />
+        </attvalues>
+      </edge>
+      <edge source="Italy" target="Canada" id="22">
+        <attvalues>
+          <attvalue for="0" value="0.7533389924207669" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="Spain" id="23">
+        <attvalues>
+          <attvalue for="0" value="0.5596886852470286" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="Italy" id="24">
+        <attvalues>
+          <attvalue for="0" value="0.5871941863606256" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="Greece" id="25">
+        <attvalues>
+          <attvalue for="0" value="0.29453546207586234" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="Serbia" id="26">
+        <attvalues>
+          <attvalue for="0" value="0.3807525993026079" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="South Africa" id="27">
+        <attvalues>
+          <attvalue for="0" value="0.4807687318971312" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="Japan" id="28">
+        <attvalues>
+          <attvalue for="0" value="0.2963345703723159" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="People's Republic of China" id="29">
+        <attvalues>
+          <attvalue for="0" value="0.5495082431287337" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="Australia" id="30">
+        <attvalues>
+          <attvalue for="0" value="0.36953193988743865" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="Montenegro" id="31">
+        <attvalues>
+          <attvalue for="0" value="0.36695858909512397" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="France" id="32">
+        <attvalues>
+          <attvalue for="0" value="0.40761212316351986" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="Canada" id="33">
+        <attvalues>
+          <attvalue for="0" value="0.727392071514176" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="Germany" id="34">
+        <attvalues>
+          <attvalue for="0" value="0.6054437079814452" />
+        </attvalues>
+      </edge>
+      <edge source="Croatia" target="Georgia" id="35">
+        <attvalues>
+          <attvalue for="0" value="0.49825007735355176" />
+        </attvalues>
+      </edge>
+      <edge source="Serbia" target="Spain" id="36">
+        <attvalues>
+          <attvalue for="0" value="0.5594194206548062" />
+        </attvalues>
+      </edge>
+      <edge source="Serbia" target="Italy" id="37">
+        <attvalues>
+          <attvalue for="0" value="0.5869293281262871" />
+        </attvalues>
+      </edge>
+      <edge source="Serbia" target="Croatia" id="38">
+        <attvalues>
+          <attvalue for="0" value="0.619247400697392" />
+        </attvalues>
+      </edge>
+      <edge source="Serbia" target="Greece" id="39">
+        <attvalues>
+          <attvalue for="0" value="0.5547844633637922" />
+        </attvalues>
+      </edge>
+      <edge source="Serbia" target="Hungary" id="40">
+        <attvalues>
+          <attvalue for="0" value="0.4403488739855205" />
+        </attvalues>
+      </edge>
+      <edge source="Serbia" target="Japan" id="41">
+        <attvalues>
+          <attvalue for="0" value="0.28094277573786947" />
+        </attvalues>
+      </edge>
+      <edge source="Serbia" target="Australia" id="42">
+        <attvalues>
+          <attvalue for="0" value="0.3522413958099674" />
+        </attvalues>
+      </edge>
+      <edge source="Serbia" target="Montenegro" id="43">
+        <attvalues>
+          <attvalue for="0" value="0.34972166254376635" />
+        </attvalues>
+      </edge>
+      <edge source="Serbia" target="United States of America" id="44">
+        <attvalues>
+          <attvalue for="0" value="0.26034527390909135" />
+        </attvalues>
+      </edge>
+      <edge source="Serbia" target="Kazakhstan" id="45">
+        <attvalues>
+          <attvalue for="0" value="0.31361980440009246" />
+        </attvalues>
+      </edge>
+      <edge source="Hungary" target="Spain" id="46">
+        <attvalues>
+          <attvalue for="0" value="0.4793171394679533" />
+        </attvalues>
+      </edge>
+      <edge source="Hungary" target="Italy" id="47">
+        <attvalues>
+          <attvalue for="0" value="0.5074246794381323" />
+        </attvalues>
+      </edge>
+      <edge source="Hungary" target="Greece" id="48">
+        <attvalues>
+          <attvalue for="0" value="0.47463089027371963" />
+        </attvalues>
+      </edge>
+      <edge source="Hungary" target="Serbia" id="49">
+        <attvalues>
+          <attvalue for="0" value="0.5596511260144795" />
+        </attvalues>
+      </edge>
+      <edge source="Hungary" target="Brazil" id="50">
+        <attvalues>
+          <attvalue for="0" value="0.5121559675066761" />
+        </attvalues>
+      </edge>
+      <edge source="Hungary" target="Montenegro" id="51">
+        <attvalues>
+          <attvalue for="0" value="0.3492867598609708" />
+        </attvalues>
+      </edge>
+      <edge source="Hungary" target="United States of America" id="52">
+        <attvalues>
+          <attvalue for="0" value="0.2599770815452203" />
+        </attvalues>
+      </edge>
+      <edge source="Hungary" target="France" id="53">
+        <attvalues>
+          <attvalue for="0" value="0.38918613515283595" />
+        </attvalues>
+      </edge>
+      <edge source="Hungary" target="Kazakhstan" id="54">
+        <attvalues>
+          <attvalue for="0" value="0.31320817298992343" />
+        </attvalues>
+      </edge>
+      <edge source="Hungary" target="Georgia" id="55">
+        <attvalues>
+          <attvalue for="0" value="0.47904011732044155" />
+        </attvalues>
+      </edge>
+      <edge source="South Africa" target="Spain" id="56">
+        <attvalues>
+          <attvalue for="0" value="0.4574566481757184" />
+        </attvalues>
+      </edge>
+      <edge source="South Africa" target="Italy" id="57">
+        <attvalues>
+          <attvalue for="0" value="0.4854775128862555" />
+        </attvalues>
+      </edge>
+      <edge source="South Africa" target="Croatia" id="58">
+        <attvalues>
+          <attvalue for="0" value="0.5192312681028688" />
+        </attvalues>
+      </edge>
+      <edge source="South Africa" target="Brazil" id="59">
+        <attvalues>
+          <attvalue for="0" value="0.5517450722185103" />
+        </attvalues>
+      </edge>
+      <edge source="South Africa" target="People's Republic of China" id="60">
+        <attvalues>
+          <attvalue for="0" value="0.5697633216771575" />
+        </attvalues>
+      </edge>
+      <edge source="South Africa" target="Australia" id="61">
+        <attvalues>
+          <attvalue for="0" value="0.3888797123604054" />
+        </attvalues>
+      </edge>
+      <edge source="South Africa" target="United States of America" id="62">
+        <attvalues>
+          <attvalue for="0" value="0.2917299043789884" />
+        </attvalues>
+      </edge>
+      <edge source="South Africa" target="Kazakhstan" id="63">
+        <attvalues>
+          <attvalue for="0" value="0.34840159285445227" />
+        </attvalues>
+      </edge>
+      <edge source="South Africa" target="Argentina" id="64">
+        <attvalues>
+          <attvalue for="0" value="0.8669820817959962" />
+        </attvalues>
+      </edge>
+      <edge source="South Africa" target="Georgia" id="65">
+        <attvalues>
+          <attvalue for="0" value="0.5187916104390562" />
+        </attvalues>
+      </edge>
+      <edge source="Australia" target="Spain" id="66">
+        <attvalues>
+          <attvalue for="0" value="0.5711822685231123" />
+        </attvalues>
+      </edge>
+      <edge source="Australia" target="Italy" id="67">
+        <attvalues>
+          <attvalue for="0" value="0.598484860088174" />
+        </attvalues>
+      </edge>
+      <edge source="Australia" target="Croatia" id="68">
+        <attvalues>
+          <attvalue for="0" value="0.6304680601125614" />
+        </attvalues>
+      </edge>
+      <edge source="Australia" target="Greece" id="69">
+        <attvalues>
+          <attvalue for="0" value="0.5665751818931042" />
+        </attvalues>
+      </edge>
+      <edge source="Australia" target="Serbia" id="70">
+        <attvalues>
+          <attvalue for="0" value="0.6477586041900326" />
+        </attvalues>
+      </edge>
+      <edge source="Australia" target="South Africa" id="71">
+        <attvalues>
+          <attvalue for="0" value="0.6111202876395946" />
+        </attvalues>
+      </edge>
+      <edge source="Australia" target="Japan" id="72">
+        <attvalues>
+          <attvalue for="0" value="0.6302416702725555" />
+        </attvalues>
+      </edge>
+      <edge source="Australia" target="People's Republic of China" id="73">
+        <attvalues>
+          <attvalue for="0" value="0.627523652903605" />
+        </attvalues>
+      </edge>
+      <edge source="Australia" target="United States of America" id="74">
+        <attvalues>
+          <attvalue for="0" value="0.3230536893275803" />
+        </attvalues>
+      </edge>
+      <edge source="Australia" target="France" id="75">
+        <attvalues>
+          <attvalue for="0" value="0.4639575476312968" />
+        </attvalues>
+      </edge>
+      <edge source="Australia" target="Kazakhstan" id="76">
+        <attvalues>
+          <attvalue for="0" value="0.3825239710911067" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="Spain" id="77">
+        <attvalues>
+          <attvalue for="0" value="0.5738894405788978" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="Italy" id="78">
+        <attvalues>
+          <attvalue for="0" value="0.601140030896762" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="Croatia" id="79">
+        <attvalues>
+          <attvalue for="0" value="0.6330414109048761" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="Greece" id="80">
+        <attvalues>
+          <attvalue for="0" value="0.5692895068769399" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="Serbia" id="81">
+        <attvalues>
+          <attvalue for="0" value="0.6502783374562336" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="Hungary" id="82">
+        <attvalues>
+          <attvalue for="0" value="0.6507132401390292" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="Japan" id="83">
+        <attvalues>
+          <attvalue for="0" value="0.6328156794270747" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="Brazil" id="84">
+        <attvalues>
+          <attvalue for="0" value="0.7274193172290042" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="Romania" id="85">
+        <attvalues>
+          <attvalue for="0" value="0.91568634380413" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="United States of America" id="86">
+        <attvalues>
+          <attvalue for="0" value="0.4338461193884444" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="Kazakhstan" id="87">
+        <attvalues>
+          <attvalue for="0" value="0.49868712799196074" />
+        </attvalues>
+      </edge>
+      <edge source="Montenegro" target="Georgia" id="88">
+        <attvalues>
+          <attvalue for="0" value="0.6673054261279575" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="Spain" id="89">
+        <attvalues>
+          <attvalue for="0" value="0.5315322630628072" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="Italy" id="90">
+        <attvalues>
+          <attvalue for="0" value="0.5594120514883457" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="Croatia" id="91">
+        <attvalues>
+          <attvalue for="0" value="0.5923878768364801" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="Greece" id="92">
+        <attvalues>
+          <attvalue for="0" value="0.526852062462569" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="Hungary" id="93">
+        <attvalues>
+          <attvalue for="0" value="0.610813864847164" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="Japan" id="94">
+        <attvalues>
+          <attvalue for="0" value="0.5921532492651442" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="Brazil" id="95">
+        <attvalues>
+          <attvalue for="0" value="0.6921366037020842" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="People's Republic of China" id="96">
+        <attvalues>
+          <attvalue for="0" value="0.5893376854117288" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="Australia" id="97">
+        <attvalues>
+          <attvalue for="0" value="0.5360424523687032" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="United States of America" id="98">
+        <attvalues>
+          <attvalue for="0" value="0.471590282439348" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="Kazakhstan" id="99">
+        <attvalues>
+          <attvalue for="0" value="0.4596794763474125" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="Canada" id="100">
+        <attvalues>
+          <attvalue for="0" value="0.8217240725918388" />
+        </attvalues>
+      </edge>
+      <edge source="France" target="Georgia" id="101">
+        <attvalues>
+          <attvalue for="0" value="0.631728996201524" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="Italy" id="102">
+        <attvalues>
+          <attvalue for="0" value="0.6766432038608333" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="Croatia" id="103">
+        <attvalues>
+          <attvalue for="0" value="0.7054645379241377" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="Serbia" id="104">
+        <attvalues>
+          <attvalue for="0" value="0.44521553663620783" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="Hungary" id="105">
+        <attvalues>
+          <attvalue for="0" value="0.5253691097262804" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="Japan" id="106">
+        <attvalues>
+          <attvalue for="0" value="0.35469152397978637" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="Brazil" id="107">
+        <attvalues>
+          <attvalue for="0" value="0.5967294885222201" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="People's Republic of China" id="108">
+        <attvalues>
+          <attvalue for="0" value="0.6142038798027264" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="Australia" id="109">
+        <attvalues>
+          <attvalue for="0" value="0.43342481810689576" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="Montenegro" id="110">
+        <attvalues>
+          <attvalue for="0" value="0.43071049312306015" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="United States of America" id="111">
+        <attvalues>
+          <attvalue for="0" value="0.3311773668375388" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="France" id="112">
+        <attvalues>
+          <attvalue for="0" value="0.47314793753743106" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="Kazakhstan" id="113">
+        <attvalues>
+          <attvalue for="0" value="0.3912787290099287" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="Germany" id="114">
+        <attvalues>
+          <attvalue for="0" value="0.6669747006166523" />
+        </attvalues>
+      </edge>
+      <edge source="Greece" target="Georgia" id="115">
+        <attvalues>
+          <attvalue for="0" value="0.5644726080255119" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="Italy" id="116">
+        <attvalues>
+          <attvalue for="0" value="0.6747492129972904" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="Croatia" id="117">
+        <attvalues>
+          <attvalue for="0" value="0.7036654296276841" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="Greece" id="118">
+        <attvalues>
+          <attvalue for="0" value="0.6453084760202137" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="Serbia" id="119">
+        <attvalues>
+          <attvalue for="0" value="0.7190572242621305" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="Brazil" id="120">
+        <attvalues>
+          <attvalue for="0" value="0.5315814069507425" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="Australia" id="121">
+        <attvalues>
+          <attvalue for="0" value="0.36975832972744443" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="Montenegro" id="122">
+        <attvalues>
+          <attvalue for="0" value="0.36718432057292527" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="United States of America" id="123">
+        <attvalues>
+          <attvalue for="0" value="0.27523401859112945" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="France" id="124">
+        <attvalues>
+          <attvalue for="0" value="0.40784675073485577" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="Kazakhstan" id="125">
+        <attvalues>
+          <attvalue for="0" value="0.3301951410225483" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="Canada" id="126">
+        <attvalues>
+          <attvalue for="0" value="0.7275846899762264" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="Germany" id="127">
+        <attvalues>
+          <attvalue for="0" value="0.6056757812174226" />
+        </attvalues>
+      </edge>
+      <edge source="Japan" target="Georgia" id="128">
+        <attvalues>
+          <attvalue for="0" value="0.49849297439915646" />
+        </attvalues>
+      </edge>
+      <edge source="People's Republic of China" target="Italy" id="129">
+        <attvalues>
+          <attvalue for="0" value="0.4173276620809738" />
+        </attvalues>
+      </edge>
+      <edge source="People's Republic of China" target="Croatia" id="130">
+        <attvalues>
+          <attvalue for="0" value="0.4504917568712663" />
+        </attvalues>
+      </edge>
+      <edge source="People's Republic of China" target="Greece" id="131">
+        <attvalues>
+          <attvalue for="0" value="0.3857961201972736" />
+        </attvalues>
+      </edge>
+      <edge source="People's Republic of China" target="South Africa" id="132">
+        <attvalues>
+          <attvalue for="0" value="0.4302366783228425" />
+        </attvalues>
+      </edge>
+      <edge source="People's Republic of China" target="Brazil" id="133">
+        <attvalues>
+          <attvalue for="0" value="0.5591215320118181" />
+        </attvalues>
+      </edge>
+      <edge source="People's Republic of China" target="Australia" id="134">
+        <attvalues>
+          <attvalue for="0" value="0.372476347096395" />
+        </attvalues>
+      </edge>
+      <edge source="People's Republic of China" target="Romania" id="135">
+        <attvalues>
+          <attvalue for="0" value="0.6856569603571079" />
+        </attvalues>
+      </edge>
+      <edge source="People's Republic of China" target="France" id="136">
+        <attvalues>
+          <attvalue for="0" value="0.4106623145882712" />
+        </attvalues>
+      </edge>
+      <edge source="People's Republic of China" target="Kazakhstan" id="137">
+        <attvalues>
+          <attvalue for="0" value="0.332775894774021" />
+        </attvalues>
+      </edge>
+      <edge source="People's Republic of China" target="Canada" id="138">
+        <attvalues>
+          <attvalue for="0" value="0.7298868391331051" />
+        </attvalues>
+      </edge>
+      <edge source="Romania" target="Italy" id="139">
+        <attvalues>
+          <attvalue for="0" value="0.2885689585127995" />
+        </attvalues>
+      </edge>
+      <edge source="Romania" target="People's Republic of China" id="140">
+        <attvalues>
+          <attvalue for="0" value="0.3143430396428921" />
+        </attvalues>
+      </edge>
+      <edge source="Romania" target="Montenegro" id="141">
+        <attvalues>
+          <attvalue for="0" value="0.0843136561958699" />
+        </attvalues>
+      </edge>
+      <edge source="Romania" target="United States of America" id="142">
+        <attvalues>
+          <attvalue for="0" value="0.05683751938601348" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="Italy" id="143">
+        <attvalues>
+          <attvalue for="0" value="0.69722735542948" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="Greece" id="144">
+        <attvalues>
+          <attvalue for="0" value="0.6688226331624612" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="Serbia" id="145">
+        <attvalues>
+          <attvalue for="0" value="0.7396547260909087" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="Hungary" id="146">
+        <attvalues>
+          <attvalue for="0" value="0.7400229184547797" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="South Africa" id="147">
+        <attvalues>
+          <attvalue for="0" value="0.7082700956210116" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="Japan" id="148">
+        <attvalues>
+          <attvalue for="0" value="0.7247659814088705" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="Australia" id="149">
+        <attvalues>
+          <attvalue for="0" value="0.6769463106724197" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="Romania" id="150">
+        <attvalues>
+          <attvalue for="0" value="0.9431624806139866" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="Montenegro" id="151">
+        <attvalues>
+          <attvalue for="0" value="0.5661538806115556" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="France" id="152">
+        <attvalues>
+          <attvalue for="0" value="0.528409717560652" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="Kazakhstan" id="153">
+        <attvalues>
+          <attvalue for="0" value="0.44505596734742237" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="Canada" id="154">
+        <attvalues>
+          <attvalue for="0" value="0.8129111232330013" />
+        </attvalues>
+      </edge>
+      <edge source="United States of America" target="Georgia" id="155">
+        <attvalues>
+          <attvalue for="0" value="0.6178912589162942" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="Italy" id="156">
+        <attvalues>
+          <attvalue for="0" value="0.6395023518225574" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="Greece" id="157">
+        <attvalues>
+          <attvalue for="0" value="0.6087212709900713" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="Serbia" id="158">
+        <attvalues>
+          <attvalue for="0" value="0.6863801955999076" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="Hungary" id="159">
+        <attvalues>
+          <attvalue for="0" value="0.6867918270100766" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="South Africa" id="160">
+        <attvalues>
+          <attvalue for="0" value="0.6515984071455477" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="Japan" id="161">
+        <attvalues>
+          <attvalue for="0" value="0.6698048589774517" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="People's Republic of China" id="162">
+        <attvalues>
+          <attvalue for="0" value="0.6672241052259791" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="Australia" id="163">
+        <attvalues>
+          <attvalue for="0" value="0.6174760289088933" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="Montenegro" id="164">
+        <attvalues>
+          <attvalue for="0" value="0.5013128720080393" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="United States of America" id="165">
+        <attvalues>
+          <attvalue for="0" value="0.5549440326525776" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="France" id="166">
+        <attvalues>
+          <attvalue for="0" value="0.5403205236525874" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="Argentina" id="167">
+        <attvalues>
+          <attvalue for="0" value="0.8583217622734867" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="Germany" id="168">
+        <attvalues>
+          <attvalue for="0" value="0.6076124762660161" />
+        </attvalues>
+      </edge>
+      <edge source="Kazakhstan" target="Georgia" id="169">
+        <attvalues>
+          <attvalue for="0" value="0.5005219707932785" />
+        </attvalues>
+      </edge>
+      <edge source="Canada" target="Italy" id="170">
+        <attvalues>
+          <attvalue for="0" value="0.24666100757923315" />
+        </attvalues>
+      </edge>
+      <edge source="Canada" target="Croatia" id="171">
+        <attvalues>
+          <attvalue for="0" value="0.27260792848582405" />
+        </attvalues>
+      </edge>
+      <edge source="Canada" target="Japan" id="172">
+        <attvalues>
+          <attvalue for="0" value="0.2724153100237736" />
+        </attvalues>
+      </edge>
+      <edge source="Canada" target="People's Republic of China" id="173">
+        <attvalues>
+          <attvalue for="0" value="0.27011316086689485" />
+        </attvalues>
+      </edge>
+      <edge source="Canada" target="United States of America" id="174">
+        <attvalues>
+          <attvalue for="0" value="0.1870888767669987" />
+        </attvalues>
+      </edge>
+      <edge source="Canada" target="France" id="175">
+        <attvalues>
+          <attvalue for="0" value="0.17827592740816123" />
+        </attvalues>
+      </edge>
+      <edge source="Germany" target="Croatia" id="176">
+        <attvalues>
+          <attvalue for="0" value="0.3945562920185548" />
+        </attvalues>
+      </edge>
+      <edge source="Germany" target="Greece" id="177">
+        <attvalues>
+          <attvalue for="0" value="0.3330252993833477" />
+        </attvalues>
+      </edge>
+      <edge source="Germany" target="Japan" id="178">
+        <attvalues>
+          <attvalue for="0" value="0.3943242187825774" />
+        </attvalues>
+      </edge>
+      <edge source="Germany" target="Brazil" id="179">
+        <attvalues>
+          <attvalue for="0" value="0.502020446898497" />
+        </attvalues>
+      </edge>
+      <edge source="Germany" target="Kazakhstan" id="180">
+        <attvalues>
+          <attvalue for="0" value="0.3923875237339839" />
+        </attvalues>
+      </edge>
+      <edge source="Georgia" target="Croatia" id="181">
+        <attvalues>
+          <attvalue for="0" value="0.5017499226464482" />
+        </attvalues>
+      </edge>
+      <edge source="Georgia" target="Greece" id="182">
+        <attvalues>
+          <attvalue for="0" value="0.4355273919744881" />
+        </attvalues>
+      </edge>
+      <edge source="Georgia" target="Hungary" id="183">
+        <attvalues>
+          <attvalue for="0" value="0.5209598826795585" />
+        </attvalues>
+      </edge>
+      <edge source="Georgia" target="South Africa" id="184">
+        <attvalues>
+          <attvalue for="0" value="0.4812083895609438" />
+        </attvalues>
+      </edge>
+      <edge source="Georgia" target="Japan" id="185">
+        <attvalues>
+          <attvalue for="0" value="0.5015070256008436" />
+        </attvalues>
+      </edge>
+      <edge source="Georgia" target="Brazil" id="186">
+        <attvalues>
+          <attvalue for="0" value="0.6090406251320432" />
+        </attvalues>
+      </edge>
+      <edge source="Georgia" target="Montenegro" id="187">
+        <attvalues>
+          <attvalue for="0" value="0.3326945738720425" />
+        </attvalues>
+      </edge>
+      <edge source="Georgia" target="United States of America" id="188">
+        <attvalues>
+          <attvalue for="0" value="0.38210874108370585" />
+        </attvalues>
+      </edge>
+      <edge source="Georgia" target="France" id="189">
+        <attvalues>
+          <attvalue for="0" value="0.368271003798476" />
+        </attvalues>
+      </edge>
+      <edge source="Georgia" target="Kazakhstan" id="190">
+        <attvalues>
+          <attvalue for="0" value="0.49947802920672146" />
+        </attvalues>
+      </edge>
+      <edge source="Brazil" target="Greece" id="191">
+        <attvalues>
+          <attvalue for="0" value="0.4032705114777799" />
+        </attvalues>
+      </edge>
+      <edge source="Brazil" target="Hungary" id="192">
+        <attvalues>
+          <attvalue for="0" value="0.48784403249332386" />
+        </attvalues>
+      </edge>
+      <edge source="Brazil" target="South Africa" id="193">
+        <attvalues>
+          <attvalue for="0" value="0.4482549277814897" />
+        </attvalues>
+      </edge>
+      <edge source="Brazil" target="Japan" id="194">
+        <attvalues>
+          <attvalue for="0" value="0.4684185930492575" />
+        </attvalues>
+      </edge>
+      <edge source="Brazil" target="People's Republic of China" id="195">
+        <attvalues>
+          <attvalue for="0" value="0.44087846798818187" />
+        </attvalues>
+      </edge>
+      <edge source="Brazil" target="Montenegro" id="196">
+        <attvalues>
+          <attvalue for="0" value="0.27258068277099573" />
+        </attvalues>
+      </edge>
+      <edge source="Brazil" target="France" id="197">
+        <attvalues>
+          <attvalue for="0" value="0.30786339629791587" />
+        </attvalues>
+      </edge>
+      <edge source="Brazil" target="Germany" id="198">
+        <attvalues>
+          <attvalue for="0" value="0.49797955310150294" />
+        </attvalues>
+      </edge>
+      <edge source="Brazil" target="Georgia" id="199">
+        <attvalues>
+          <attvalue for="0" value="0.39095937486795684" />
+        </attvalues>
+      </edge>
+      <edge source="Argentina" target="South Africa" id="200">
+        <attvalues>
+          <attvalue for="0" value="0.13301791820400377" />
+        </attvalues>
+      </edge>
+      <edge source="Argentina" target="Kazakhstan" id="201">
+        <attvalues>
+          <attvalue for="0" value="0.14167823772651333" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
